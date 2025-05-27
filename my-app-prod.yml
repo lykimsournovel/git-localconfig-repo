@@ -14,4 +14,4 @@ server:
 
 app:
   name: My Externalized App
-  message: Hello from Config Server!
+  message: Hello from Config Server Prod!
